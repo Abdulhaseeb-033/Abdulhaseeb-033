@@ -1,6 +1,6 @@
-# Hi, I'm Abdul Haseeb 👋
+Hi, I'm Abdul Haseeb 👋
 
-### Aspiring Full Stack Web Developer | Future Software Engineer
+Aspiring Full Stack Web Developer | Future Software Engineer
 
 I'm a Modern Web & Mobile Application Development student focused on building practical and user-friendly web applications.
 
@@ -8,23 +8,27 @@ Currently learning and working with JavaScript, React.js, Next.js, Node.js, Expr
 
 ---
 
-## Tech Stack
+Tech Stack
 
-### Frontend
-HTML • CSS • JavaScript • React.js • Next.js • Bootstrap • Tailwind CSS
+Frontend
 
-### Backend
-Node.js • Express.js • REST APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwind" />
+</p>Backend
 
-### Databases
-MongoDB • Firebase • PostgreSQL
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>Databases
 
-### Tools
-Git • GitHub • Postman • Docker
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,postgres" />
+</p>Tools
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,docker" />
+</p>---
 
-## Currently Learning
+Currently Learning
 
 - Backend Development
 - PostgreSQL
@@ -34,13 +38,13 @@ Git • GitHub • Postman • Docker
 
 ---
 
-## Projects
+Projects
 
 More projects coming soon.
 
 ---
 
-## Connect With Me
+Connect With Me
 
 - GitHub
 - LinkedIn
