@@ -79,6 +79,10 @@ You can explore my projects and development work through my portfolio.
 
 <br />
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulhaseeb-033&hide_border=true" alt="GitHub Streak" />
+
+<br />
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulhaseeb-033&layout=compact&hide_border=true" alt="Top Languages" />
 
 </div>
