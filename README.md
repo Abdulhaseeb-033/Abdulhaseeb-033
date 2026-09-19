@@ -79,7 +79,7 @@ You can explore my projects and development work through my portfolio.
 
 <br />
 
-<img src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=Abdulhaseeb-033" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulhaseeb-033&hide_border=true" alt="GitHub Streak" />
 
 <br />
 
