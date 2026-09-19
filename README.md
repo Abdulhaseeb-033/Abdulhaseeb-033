@@ -75,18 +75,17 @@ You can explore my projects and development work through my portfolio.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abdulhaseeb-033&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=Abdulhaseeb-033&show_icons=true" alt="GitHub Stats" />
 
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulhaseeb-033&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=Abdulhaseeb-033" alt="GitHub Streak" />
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulhaseeb-033&layout=compact&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=Abdulhaseeb-033" alt="Top Languages" />
 
 </div>
-
 ---
 
 # 🤝 Connect With Me
